@@ -14,7 +14,7 @@ Ubuntu:
   `sudo apt-get install plymouth-theme-xubuntu-logo plymouth-theme-xubuntu-text`
   
   
-  2: Download repository as ZIP.
+  2: Click in releases, download as ZIP.
   
   3: Extract ZIP.
   
