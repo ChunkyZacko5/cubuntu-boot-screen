@@ -3,5 +3,6 @@
 cubuntu=5
 5=e
 e(40)
-40=(100-50, background.png)
+40=(100-50, wallpaper.png)
 80=(50-100, logo.png)
+90=(60, 20, 60)
