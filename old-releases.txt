@@ -1,3 +1,5 @@
+The are old releases of Cubuntu Boot Screen.
+
 CZOSBS 0.8a (1998 January)
 CRENBS 0.9 (1999 February)
 CREN Boot Screen 1.0 (2000 July)
@@ -20,3 +22,7 @@ Cubuntu Boot Screen 5.13 (2013 December)
 Cubuntu Boot Screen 5.15 (2015 June)
 Cubuntu Boot Screen 5.16.0 (2016 February)
 Cubuntu Boot Screen 5.16.01 (2016 April)
+Cubuntu Boot Screen 6.18 (2018 May)
+Cubuntu Boot Screen 6.19 (2019 October)
+Cubuntu Boot Screen 7.0 (2020 May)
+Cubuntu Boot Screen 7.50 (2021 May)
