@@ -21,7 +21,7 @@ Ubuntu:
   4: Type in the terminal:
   
   
-  `cd ~/Downloads/cubuntu-boot-screen-main`
+  `cd ~/Downloads/cubuntu-boot-screen-<version>`
   
   `sudo cp xubuntu-logo /usr/share/plymouth/themes/xubuntu-logo`
   
