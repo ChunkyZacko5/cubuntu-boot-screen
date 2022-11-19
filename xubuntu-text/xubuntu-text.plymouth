@@ -1,0 +1,11 @@
+[Plymouth Theme]
+Name=Cubuntu Text
+Description=Text mode theme based on cubuntu-logo theme
+ModuleName=ubuntu-text
+
+[ubuntu-text]
+title=Cubuntu 12.04
+black=0x000000
+white=0xffffff
+brown=0x000000
+blue=0xffffff
