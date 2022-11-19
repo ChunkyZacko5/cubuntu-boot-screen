@@ -7,6 +7,9 @@ The Cubuntu boot screen based on Xubuntu splash screen.
 It is for only Plymouth.
 
 # How to use Cubuntu boot/splash screen in Linux?
+
+![image](https://user-images.githubusercontent.com/111050027/202846517-3977c649-7f90-431c-8415-3336e84bd3c1.png)
+
 Ubuntu:
 
 
